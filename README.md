@@ -1,0 +1,1 @@
+# Ghana-Covid-Risk-Index
