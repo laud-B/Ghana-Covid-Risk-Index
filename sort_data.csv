@@ -1,0 +1,581 @@
+,District,Region,QGIS_District,COVID_Risk_index
+232,Techiman Municipal,Bono East,TECHIMAN MUNICIPAL,149987.0
+230,Tarkwa-Nsuaem,Western,TARKWA NSUAEM,143121.0
+92,Cape Coast,Central,CAPE COAST METROPOLITAN,138717.5
+150,Kumasi,Ashanti,KUMASI METROPOLITAN,138462.5
+77,Bibiani-Anhwiaso-Bekwai,Western North,BIBIANI-ANHWIASO-BEKWAI MUNICIPAL,118811.5
+223,Sunyani Municipal,Bono,SUNYANI MUNICIPAL,118289.5
+206,Sekondi-Takoradi,Western,SEKONDI TAKORADI METROPOLIS,115610.5
+85,Bolgatanga Municipal,Upper East,BOLGATANGA MUNICIPAL,114416.0
+109,Ellembelle,Western,ELLEMBELLE,104113.0
+139,Kintampo North,Bono East,KINTAMPO NORTH MUNICIPAL,103436.5
+250,Wassa East,Western,WASSA EAST,100257.5
+125,Jaman North,Bono,JAMAN NORTH,99221.0
+176,New Juaben South,Eastern,NEW JUABEN SOUTH MUNICIPAL,98959.0
+227,Tamale,Northern,TAMALE METROPOLITAN,97226.5
+79,Birim Central,Eastern,BIRIM CENTRAL MUNICIPAL,91486.5
+122,Ho,Volta,HO MUNICIPAL,89626.5
+199,Pusiga,Upper East,PUSIGA,89289.5
+59,Atwima Nwabiagya,Ashanti,ATWIMA NWABIAGYA SOUTH,88802.0
+126,Jaman South,Bono,JAMAN SOUTH MUNICIPAL,88710.0
+70,Bawku West,Upper East,BAWKU WEST,80274.0
+69,Bawku Municipal,Upper East,BAWKU MUNICIPAL,80076.0
+215,Shama,Western,SHAMA,78716.0
+51,Asuogyaman,Eastern,ASUOGYAMAN,77671.0
+160,La-Nkwantanang-Madina,Greater Accra,LA-NKWANTANANG-MADINA,77070.0
+5,Accra Metro,Greater Accra,ACCRA METROPOLIS,76605.0
+225,Tain,Bono,TAIN,73738.0
+245,Wa Municipal,Upper West,WA MUNICIPAL,73624.5
+252,Wenchi,Bono,WENCHI MUNICIPAL,73270.5
+103,East Mamprusi,North East,EAST MAMPRUSI,73232.5
+249,Wassa Amenfi West,Western,WASSA AMENFI WEST,73189.5
+49,Asunafo North,Ahafo,ASUNAFO NORTH MUNICIPAL,72685.0
+42,Ashaiman,Greater Accra,ASHAIMAN MUNICIPAL,72162.0
+166,Mfantsiman,Central,MFANTSEMAN MUNICIPAL,70829.0
+186,Nsawam-Adoagyiri,Eastern,NSAWAM ADOAGYIRE MUNICIPAL,70365.5
+50,Asunafo South,Ahafo,ASUNAFO SOUTH,67925.0
+236,Tempane,Upper East,TEMPANE,66532.5
+253,West Akim,Eastern,WEST AKIM MUNICIPAL,64840.0
+159,La-Dade-Kotopon,Greater Accra,LA DADE-KOTOPON,64633.0
+179,Nkoranza South,Bono East,NKORANZA SOUTH,64422.0
+45,Asokwa,Ashanti,ASOKWA  MUNICIPAL,64267.5
+105,Efutu,Central,EFFUTU MUNICIPAL,64224.0
+228,Tano North,Ahafo,TANO NORTH MUNICIPAL,62773.0
+26,Ajumako-Enyan-Essiam,Central,AJUMAKO-ENYAN-ESSIAM,62262.0
+106,Ejisu,Ashanti,EJISU MUNICIPAL,61651.5
+226,Talensi,Upper East,TALENSI,61159.5
+205,Sefwi-Wiawso,Western North,SEFWI-WIAWSO,60989.5
+129,Jomoro,Western,JOMORO,60923.0
+86,Bongo,Upper East,BONGO,60729.0
+224,Sunyani West,Bono,SUNYANI WEST,59939.0
+17,Afigya Kwabre South,Ashanti,AFIGYA KWABRE SOUTH,58598.5
+135,Kasena-Nankana West,Upper East,KASENA NANKANA WEST,58304.5
+196,Prestea-Huni Valley,Western,PRESTEA/HUNI VALLEY,57420.0
+113,Ga East,Greater Accra,GA EAST,57374.0
+104,Effia-Kwesimintsim,Western,EFFIA KWESIMINTSIM MUNICIPAL,57300.5
+154,Kwaebibirem,Eastern,KWAEBIBIREM,57148.0
+39,Asante Akim South,Ashanti,ASANTE AKIM SOUTH,57088.5
+248,Wassa Amenfi East,Western,WASSA AMENFI EAST,56651.0
+43,Asikuma-Odoben-Brakwa,Central,ASIKUMA-ODOBEN-BRAKWA,56351.5
+169,Nabdam,Upper East,NABDAM,55611.5
+75,Bia West,Western North,BIA WEST,55331.5
+97,Denkyembour,Eastern,DENKYEMBOUR,54734.5
+83,Bole,Savannah,BOLE,54295.0
+213,Sene West,Bono East,SENE WEST,54015.0
+170,Nadowli-Kaleo,Upper West,NADOWLI-KALEO,53639.0
+240,Upper Denkyira East,Central,UPPER DENKYIRA EAST MUNICIPAL,52303.0
+20,Agona West,Central,AGONA WEST MUNICIPAL,52286.5
+192,Oforikrom,Ashanti,OFORIKROM MUNICIPAL,51858.0
+134,Kasena-Nankana,Upper East,KASENA NANKANA EAST,51845.0
+80,Birim North,Eastern,BIRIM NORTH,51783.5
+71,Bekwai,Ashanti,BEKWAI MUNICIPAL,51321.5
+36,Aowin,Western North,AOWIN,50461.5
+216,Sissala East,Upper West,SISSALA EAST,50356.0
+25,Ahanta West,Western,AHANTA WEST MUNICIPAL,50146.5
+54,Atebubu-Amanten,Bono East,ATEBUBU AMANTIN,50079.5
+4,Abura-Asebu-Kwamankese,Central,ABURA-ASEBU-KWAMANKESE,49968.0
+246,Wa West,Upper West,WA WEST,49189.5
+62,Awutu Senya East,Central,AWUTU SENYA EAST,49072.0
+98,Dormaa East,Bono,DORMAA EAST,48862.5
+72,Berekum,Bono,BEREKUM EAST MUNICIPAL,48348.5
+37,Asante Akim Central,Ashanti,ASANTE AKIM CENTRAL MUNICIPAL,47136.0
+257,Yilo-Krobo,Eastern,YILO KROBO MUNICIPAL,46895.0
+158,Kwahu West,Eastern,KWAHU WEST MUNICIPAL,46854.5
+201,Sagnarigu,Northern,SAGNERIGU,46837.0
+124,Hohoe,Volta,HOHOE MUNICIPAL,46174.0
+164,Lower-Manya Krobo,Eastern,LOWER MANYA KROBO,45793.5
+137,Ketu North,Volta,KETU NORTH,45779.5
+188,Obuasi,Ashanti,OBUASI MUNICIPAL,45634.0
+233,Techiman North,Bono East,TECHIMAN NORTH,44951.5
+48,Assin South,Central,ASSIN SOUTH,44655.5
+40,Asante Mampong,Ashanti,MAMPONG MUNICIPAL,44543.0
+29,Akwapim North,Eastern,AKWAPEM NORTH,44321.5
+209,Sekyere East,Ashanti,SEKYERE EAST,44321.5
+162,Lawra,Upper West,LAWRA,44142.5
+145,Kpone-Katamanso,Greater Accra,KPONE KATAMANSO,43886.0
+197,Pru,Bono East,PRU EAST,43554.0
+222,Suhum,Eastern,SUHUM MUNICIPAL,43226.0
+138,Ketu South,Volta,KETU SOUTH,43213.0
+128,Jirapa,Upper West,JIRAPA,42697.5
+57,Atwima Kwanwoma,Ashanti,ATWIMA KWANWOMA,42671.0
+32,Amansie Central,Ashanti,AMANSIE CENTRAL,42552.5
+141,Komenda-Edna-Eguafo-Abirem,Central,KOMENDA-EDINA-EGUAFO-ABIREM MUNICIPAL,42340.5
+189,Obuasi East,Ashanti,OBUASI EAST,42251.0
+52,Asutifi North,Ahafo,ASUTIFI NORTH,42244.0
+193,Okai Koi North,Greater Accra,OKAIKWEI NORTH MUNICIPAL,41979.0
+58,Atwima Mponua,Ashanti,ATWIMA MPONUA,41928.5
+136,Keta,Volta,KETA MUNICIPAL,41894.5
+117,Garu,Upper East,GARU,41730.5
+131,Juaboso,Western North,JUABOSO,40816.0
+219,South Tongu,Volta,SOUTH TONGU,40269.0
+255,West Mamprusi,North East,WEST MAMPRUSI MUNICIPAL,39895.0
+38,Asante Akim North,Ashanti,ASANTE AKIM NORTH,39824.0
+99,Dormaa Municipal,Bono,DORMAA MUNICIPAL,38375.5
+31,Akyemansa,Eastern,AKYEM MANSA,38354.0
+161,Lambussie,Upper West,LAMBUSSIE-KARNI,38114.0
+211,Sekyere South,Ashanti,SEKYERE SOUTH,38094.5
+94,Central Tongu,Volta,CENTRAL TONGU,38073.5
+101,East Akim - Abuakwa South,Eastern,ABUAKWA SOUTH MUNICIPAL,37938.0
+60,Atwima Nwabiagya North,Ashanti,ATWIMA NWABIAGYA NORTH,37777.0
+88,Bosomtwe,Ashanti,BOSOMTWE,37501.5
+140,Kintampo South,Bono East,KINTAMPO SOUTH,37366.0
+46,Assin Foso,Central,ASSIN CENTRAL MUNICIPAL,37199.5
+123,Ho West,Volta,HO WEST,36953.5
+120,Gomoa West,Central,GOMOA WEST,36871.0
+119,Gomoa East,Central,GOMOA EAST,36427.5
+78,Binduri,Upper East,BINDURI,36240.5
+93,Central Gonja,Savannah,CENTRAL GONJA,36183.0
+184,North Tongu,Volta,NORTH TONGU,36176.5
+76,Biakoye,Oti,BIAKOYE,36112.5
+91,Bunkpurugu -Nakpanduri,North East,BUNKPURUGU NAKPANDURI,36039.0
+56,Atiwa West,Eastern,ATIWA WEST,36005.0
+238,Twifo-Ati-Mokwa,Central,TWIFO ATTI-MORKWA,35989.0
+22,Ahafo Ano North,Ashanti,AHAFO ANO NORTH,35657.5
+157,Kwahu South,Eastern,KWAHU SOUTH,35537.0
+187,Nzema East,Western,NZEMA EAST,35100.0
+55,Atiwa East,Eastern,ATIWA EAST,34197.5
+214,Shai-Osudoku,Greater Accra,SHAI OSUDOKU,34141.5
+190,Offinso,Ashanti,OFFINSO MUNICIPAL,33731.0
+256,Yendi,Northern,YENDI MUNICIPAL,33438.0
+171,Nandom,Upper West,NANDOM,33437.0
+61,Awutu Senya,Central,AWUTU SENYA WEST,32981.5
+155,Kwahu East,Eastern,KWAHU EAST,32807.5
+203,Sawla-Tuna-Kalba,Savannah,SAWLA-TUNA-KALBA,32615.0
+163,Ledzokuku,Greater Accra,LEDZOKUKU MUNICIPAL,32114.0
+152,Kwabre East,Ashanti,KWABRE EAST,31989.5
+241,Upper Denkyira West,Central,UPPER DENKYIRA WEST,31951.0
+47,Assin North,Central,ASSIN NORTH,31870.0
+153,Kwadaso,Ashanti,KWADASO MUNICIPAL,31585.5
+24,Ahafo Ano South West,Ashanti,AHAFO ANO SOUTH WEST,31572.0
+244,Wa East,Upper West,WA EAST,31542.5
+142,Korle-Klottey,Greater Accra,KORLE KLOTTEY MUNICIPAL,31377.5
+33,Amansie South,Ashanti,AMANSIE SOUTH,31161.0
+28,Akatsi South,Volta,AKATSI SOUTH,31005.0
+200,Saboba,Northern,SABOBA,30935.5
+53,Asutifi South,Ahafo,ASUTIFI SOUTH,30924.0
+181,Nkwanta South,Oti,NKWANTA SOUTH MUNICIPAL,30891.5
+247,Wassa Amenfi Central,Western,WASSA AMENFI CENTRAL,30854.5
+114,Ga North,Greater Accra,GA NORTH MUNICIPAL,30561.0
+89,Builsa North,Upper East,BUILSA NORTH,30470.0
+132,Kadjebi,Oti,KADJEBI,30376.0
+191,Offinso North,Ashanti,OFFINSO NORTH,30127.0
+116,Ga West,Greater Accra,GA WEST MUNICIPAL,29861.0
+218,South Dayi,Volta,SOUTH DAYI,29759.5
+19,Agona East,Central,AGONA EAST,29749.5
+14,Adentan,Greater Accra,ADENTA MUNICIPAL,29565.0
+177,Ningo Prampram,Greater Accra,NINGO/PRAMPRAM,29440.0
+41,Asene Manso Akroso,Eastern,ASENE MANSO AKROSO,29159.5
+3,Abuakwa North,Eastern,ABUAKWA NORTH,29104.0
+100,Dormaa West,Bono,DORMAA WEST,28875.0
+146,Krachi East,Oti,KRACHI EAST MUNICIPAL,28680.0
+148,Krachi West,Oti,KRACHI WEST,27023.0
+143,Kpandai,Northern,KPANDAI,26917.0
+173,Nanumba North,Northern,NANUMBA NORTH,26897.5
+15,Afadjato South,Volta,AFADZATO SOUTH,26573.0
+144,Kpando,Volta,KPANDO MUNICIPAL,26205.5
+237,Tolon,Northern,TOLON,25840.5
+174,Nanumba South,Northern,NANUMBA SOUTH,25689.0
+208,Sekyere Central,Ashanti,SEKYERE CENTRAL,25259.5
+178,Nkoranza North,Bono East,NKORANZA NORTH,25094.0
+127,Jasikan,Oti,JASIKAN,24459.5
+229,Tano South,Ahafo,TANO SOUTH MUNICIPAL,24298.5
+167,Mion,Northern,MION,23878.0
+175,New Juaben North,Eastern,NEW JUABEN NORTH MUNICIPAL,23847.0
+242,Upper Manya-Krobo,Eastern,UPPER MANYA KROBO,23823.5
+18,Afram Plains South,Eastern,KWAHU AFRAM PLAINS SOUTH,23816.0
+96,Daffiama-Bussie-Issa,Upper West,DAFFIAMA BUSSIE ISSA,23702.5
+67,Ayensuano,Eastern,AYENSUANO,23567.0
+243,Upper West Akim,Eastern,UPPER WEST AKIM,23523.0
+107,Ejura-Sekyedumase,Ashanti,EJURA-SEKYEDUMASE,23207.0
+35,Anloga,Volta,ANLOGA,23047.5
+212,Sene East,Bono East,SENE EAST,22796.0
+115,Ga South,Greater Accra,GA SOUTH MUNICIPAL,22764.0
+90,Builsa South,Upper East,BUILSA SOUTH,22574.5
+180,Nkwanta North,Oti,NKWANTA NORTH,22239.5
+195,Old Tafo,Ashanti,OLD TAFO MUNICIPAL,22234.5
+221,Suame,Ashanti,SUAME MUNICIPAL,22214.0
+30,Akwapim South,Eastern,AKWAPEM SOUTH,22116.5
+23,Ahafo Ano South East,Ashanti,AHAFO ANO SOUTH EAST,22067.5
+198,Pru West,Bono East,PRU WEST,21994.0
+194,Okere,Eastern,OKERE,21846.0
+210,Sekyere Kumawu,Ashanti,SEKYERE KUMAWU,21332.0
+204,Sefwi-Akontombra,Western North,SEFWI AKONTOMBRA,21223.0
+234,Tema,Greater Accra,TEMA METROPOLITAN,21080.0
+110,Fanteakwa North,Eastern,FANTEAKWA NORTH,20861.5
+165,Mamprugu-Moagduri,North East,MAMPRUGU MOAGDURI,20835.0
+108,Ekumfi,Central,EKUMFI,20589.0
+251,Weija-Gbawe,Greater Accra,WEIJA GBAWE MUNICIPAL,20366.0
+16,Afigya Kwabre North,Ashanti,AFIGYA KWABRE NORTH,20353.0
+168,Mpohor,Western,MPOHOR,20027.5
+151,Kumbungu,Northern,KUMBUNGU,19872.5
+73,Berekum West,Bono,BEREKUM WEST,19831.0
+112,Ga Central,Greater Accra,GA CENTRAL MUNICIPAL,19815.5
+121,Gushiegu,Northern,GUSHEGU,19430.5
+6,Achiase ,Eastern,ACHIASE ,19260.5
+2,Ablekuma West,Greater Accra,ABLEKUMA WEST MUNICIPAL,19152.5
+9,Adaklu,Volta,ADAKLU,19116.5
+156,Kwahu North,Eastern,KWAHU NORTH,19002.0
+81,Birim South,Eastern,BIRIM SOUTH,18979.0
+7,Ada East,Greater Accra,ADA EAST,18936.5
+82,Bodi,Western North,BODI,18613.0
+118,Gomoa Central,Central,GOMOA CENTRAL,18065.0
+231,Tatale-Sangule,Northern,TATALE SANGULI,18058.5
+202,Savelugu,Northern,SAVELUGU,17896.0
+111,Fanteakwa South,Eastern,FANTEAKWA SOUTH,17872.0
+254,West Gonja,Savannah,WEST GONJA,17830.0
+220,Suaman,Western North,SUAMAN,17620.5
+130,Juaben,Ashanti,JUABEN MUNICIPAL,17474.5
+13,Adansi South,Ashanti,ADANSI SOUTH,17426.5
+11,Adansi Asokwa,Ashanti,ADANSI ASOKWA,17288.0
+182,North Dayi,Volta,NORTH DAYI,17238.5
+12,Adansi North,Ashanti,ADANSI NORTH,16660.5
+102,East Gonja,Savannah,EAST GONJA MUNICIPAL,16401.0
+34,Amansie West,Ashanti,AMANSIE WEST,14954.0
+0,Ablekuma Central,Greater Accra,ABLEKUMA CENTRAL MUNICIPAL,14076.0
+74,Bia East,Western North,BIA EAST,13779.0
+149,Krowor,Greater Accra,KROWOR MUNICIPAL,13663.5
+21,Agortime-Ziope,Volta,AGOTIME ZIOPE,13512.0
+133,Karaga,Northern,KARAGA,13327.0
+147,Krachi Nchumuru,Oti,KRACHI NCHUMURU,13213.5
+84,Bolgatanga East,Upper East,BOLGA  EAST,12853.0
+239,Twifo-Hemang Lower Denkyira,Central,TWIFO HEMANG LOWER DENKYIRA,12788.5
+95,Chereponi,North East,CHEREPONI,11411.0
+27,Akatsi North,Volta,AKATSI NORTH,10597.0
+8,Ada West,Greater Accra,ADA WEST,10493.5
+183,North Gonja,Savannah,NORTH GONJA,10082.5
+1,Ablekuma North,Greater Accra,ABLEKUMA NORTH MUNICIPAL,9695.0
+44,Asokore Mampong,Ashanti,ASOKORE MAMPONG MUNICIPAL,9589.0
+259,Zabzugu,Northern,ZABZUGU,9252.5
+235,Tema West,Greater Accra,TEMA WEST MUNICIPAL,8866.0
+10,Adansi Akrofuom,Ashanti,ADANSI AKROFUOM,8197.0
+65,Ayawaso North,Greater Accra,AYAWASO NORTH MUNICIPAL,7479.5
+66,Ayawaso West,Greater Accra,AYAWASO WEST,7084.0
+207,Sekyere Afram Plains,Ashanti,SEKYERE AFRAM PLAINS NORTH,6828.0
+172,Nanton,Northern,NANTON,5820.5
+64,Ayawaso East,Greater Accra,AYAWASO EAST MUNICIPAL,4770.5
+63,Ayawaso Central,Greater Accra,AYAWASO CENTRAL MUNICIPAL,4098.5
+68,Banda,Bono,BANDA,
+87,Bosome Freho,Ashanti,BOSOME FREHO,
+185,North-East Gonja,Savannah,NORTH EAST GONJA,
+217,Sissala West,Upper West,SISSALA WEST,
+258,Yunyoo-Nasuan,North East,YUNYOO-NASUAN,
+260,,,,
+261,,,,
+262,,,,
+263,,,,
+264,,,,
+265,,,,
+266,,,,
+267,,,,
+268,,,,
+269,,,,
+270,,,,
+271,,,,
+272,,,,
+273,,,,
+274,,,,
+275,,,,
+276,,,,
+277,,,,
+278,,,,
+279,,,,
+280,,,,
+281,,,,
+282,,,,
+283,,,,
+284,,,,
+285,,,,
+286,,,,
+287,,,,
+288,,,,
+289,,,,
+290,,,,
+291,,,,
+292,,,,
+293,,,,
+294,,,,
+295,,,,
+296,,,,
+297,,,,
+298,,,,
+299,,,,
+300,,,,
+301,,,,
+302,,,,
+303,,,,
+304,,,,
+305,,,,
+306,,,,
+307,,,,
+308,,,,
+309,,,,
+310,,,,
+311,,,,
+312,,,,
+313,,,,
+314,,,,
+315,,,,
+316,,,,
+317,,,,
+318,,,,
+319,,,,
+320,,,,
+321,,,,
+322,,,,
+323,,,,
+324,,,,
+325,,,,
+326,,,,
+327,,,,
+328,,,,
+329,,,,
+330,,,,
+331,,,,
+332,,,,
+333,,,,
+334,,,,
+335,,,,
+336,,,,
+337,,,,
+338,,,,
+339,,,,
+340,,,,
+341,,,,
+342,,,,
+343,,,,
+344,,,,
+345,,,,
+346,,,,
+347,,,,
+348,,,,
+349,,,,
+350,,,,
+351,,,,
+352,,,,
+353,,,,
+354,,,,
+355,,,,
+356,,,,
+357,,,,
+358,,,,
+359,,,,
+360,,,,
+361,,,,
+362,,,,
+363,,,,
+364,,,,
+365,,,,
+366,,,,
+367,,,,
+368,,,,
+369,,,,
+370,,,,
+371,,,,
+372,,,,
+373,,,,
+374,,,,
+375,,,,
+376,,,,
+377,,,,
+378,,,,
+379,,,,
+380,,,,
+381,,,,
+382,,,,
+383,,,,
+384,,,,
+385,,,,
+386,,,,
+387,,,,
+388,,,,
+389,,,,
+390,,,,
+391,,,,
+392,,,,
+393,,,,
+394,,,,
+395,,,,
+396,,,,
+397,,,,
+398,,,,
+399,,,,
+400,,,,
+401,,,,
+402,,,,
+403,,,,
+404,,,,
+405,,,,
+406,,,,
+407,,,,
+408,,,,
+409,,,,
+410,,,,
+411,,,,
+412,,,,
+413,,,,
+414,,,,
+415,,,,
+416,,,,
+417,,,,
+418,,,,
+419,,,,
+420,,,,
+421,,,,
+422,,,,
+423,,,,
+424,,,,
+425,,,,
+426,,,,
+427,,,,
+428,,,,
+429,,,,
+430,,,,
+431,,,,
+432,,,,
+433,,,,
+434,,,,
+435,,,,
+436,,,,
+437,,,,
+438,,,,
+439,,,,
+440,,,,
+441,,,,
+442,,,,
+443,,,,
+444,,,,
+445,,,,
+446,,,,
+447,,,,
+448,,,,
+449,,,,
+450,,,,
+451,,,,
+452,,,,
+453,,,,
+454,,,,
+455,,,,
+456,,,,
+457,,,,
+458,,,,
+459,,,,
+460,,,,
+461,,,,
+462,,,,
+463,,,,
+464,,,,
+465,,,,
+466,,,,
+467,,,,
+468,,,,
+469,,,,
+470,,,,
+471,,,,
+472,,,,
+473,,,,
+474,,,,
+475,,,,
+476,,,,
+477,,,,
+478,,,,
+479,,,,
+480,,,,
+481,,,,
+482,,,,
+483,,,,
+484,,,,
+485,,,,
+486,,,,
+487,,,,
+488,,,,
+489,,,,
+490,,,,
+491,,,,
+492,,,,
+493,,,,
+494,,,,
+495,,,,
+496,,,,
+497,,,,
+498,,,,
+499,,,,
+500,,,,
+501,,,,
+502,,,,
+503,,,,
+504,,,,
+505,,,,
+506,,,,
+507,,,,
+508,,,,
+509,,,,
+510,,,,
+511,,,,
+512,,,,
+513,,,,
+514,,,,
+515,,,,
+516,,,,
+517,,,,
+518,,,,
+519,,,,
+520,,,,
+521,,,,
+522,,,,
+523,,,,
+524,,,,
+525,,,,
+526,,,,
+527,,,,
+528,,,,
+529,,,,
+530,,,,
+531,,,,
+532,,,,
+533,,,,
+534,,,,
+535,,,,
+536,,,,
+537,,,,
+538,,,,
+539,,,,
+540,,,,
+541,,,,
+542,,,,
+543,,,,
+544,,,,
+545,,,,
+546,,,,
+547,,,,
+548,,,,
+549,,,,
+550,,,,
+551,,,,
+552,,,,
+553,,,,
+554,,,,
+555,,,,
+556,,,,
+557,,,,
+558,,,,
+559,,,,
+560,,,,
+561,,,,
+562,,,,
+563,,,,
+564,,,,
+565,,,,
+566,,,,
+567,,,,
+568,,,,
+569,,,,
+570,,,,
+571,,,,
+572,,,,
+573,,,,
+574,,,,
+575,,,,
+576,,,,
+577,,,,
+578,,,,
+579,,,,

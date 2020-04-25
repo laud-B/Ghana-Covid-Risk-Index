@@ -26,12 +26,12 @@ print(ghana_disease_trend.head(5))
 #%%
 
 # Step 2: Data Preporocessing
-flu_data.drop(['District edit','Unnamed: 18', 'Unnamed: 16', 'Unnamed: 17','orgunitlevel2.1'], axis = 1, inplace = True)
+flu_data.drop(['orgunitlevel2.1'], axis = 1, inplace = True)
 flu_data.dropna(inplace = True)
 ghana_disease_trend.dropna(inplace = True)
 
 #%%
-flu_data.columns= ['org_unit_name','region','Jan19','Feb19','Mar19','Apr19','May19','Jun19','Jul19','Aug19','Sep19','Oct19','Nov19','Dec19']
+flu_data.columns= ['org_unit_name','District_GIS','region','Jan19','Feb19','Mar19','Apr19','May19','Jun19','Jul19','Aug19','Sep19','Oct19','Nov19','Dec19']
 
 #%%
 columns = ['Jan19', 'Feb19', 'Mar19', 'Apr19',
@@ -55,6 +55,15 @@ for column in columns:
     flu_data[column_name] = (flu_data[column]/total_cases)*1000
     
 #%%
+
+
+flu_data['May_june_july_ratio'] = flu_data['May19ratio']+flu_data['May19ratio']+flu_data['Jul19ratio']
+flu_data['Oct_nov_Dec_ratio'] = flu_data['Oct19ratio']+flu_data['Nov19ratio']+flu_data['Dec19ratio']
+
+flu_data[['org_unit_name','District_GIS','region','Jan19ratio', 'Feb19ratio',
+       'Mar19ratio', 'Apr19ratio', 'May19ratio', 'May19ratio', 'Jul19ratio',
+       'Aug19ratio', 'Sep19ratio', 'Oct19ratio', 'Nov19ratio', 'Dec19ratio','May_june_july_ratio','Oct_nov_Dec_ratio']].to_csv("QGIS_FLUratioo.csv")
+#%%
     
 group_heatmap = flu_data.groupby('region')['Jan19ratio', 'Feb19ratio',
        'Mar19ratio', 'Apr19ratio', 'May19ratio', 'Jun19ratio', 'Jul19ratio',
@@ -65,3 +74,79 @@ group_heatmap = flu_data.groupby('region')['Jan19ratio', 'Feb19ratio',
 plt.subplots(figsize = (10,5))
 ax1 = sns.heatmap(group_heatmap,annot = True, cbar_kws = {'ticks':[2, 3, 4,5, 6, 7 , 8, 9, 10, 11, 12 , 13, 14,
        14, 15]}, vmin = 2, vmax = 15) 
+
+#%%
+
+boxplot_data = flu_data[['org_unit_name','Jan19', 'Feb19', 'Mar19', 'Apr19',
+       'May19', 'Jun19', 'Jul19', 'Aug19', 'Sep19', 'Oct19', 'Nov19', 'Dec19']]
+boxplot_data.set_index('org_unit_name')
+
+boxplot_data['Jan19'].hist(alpha = 0.3, color = 'k', normed = True)
+
+#%%
+
+ax = sns.boxplot(x = boxplot_data['Jan19'])
+
+#%%
+
+columns = ['Jan19', 'Feb19', 'Mar19', 'Apr19',
+       'May19', 'Jun19', 'Jul19', 'Aug19', 'Sep19', 'Oct19', 'Nov19', 'Dec19']
+
+total_cases = []
+
+for column in columns:
+    total_cases.append(flu_data[column].sum())
+    
+#%%
+
+dataframe = []
+
+dataframe.append(total_cases)
+total_data_dataframe = pd.DataFrame(dataframe, columns = columns)
+
+#%%
+total_data_dataframe.plot(kind = 'bar')
+
+#%%
+
+total_data_dataframe_t = total_data_dataframe.T.reset_index()
+
+total_data_dataframe_t.columns = ['Month','Total Cases']
+#%%
+
+ax = sns.barplot(x="Month", y="Total Cases", data=total_data_dataframe_t)
+
+#%%
+
+ghana_disease_trend = ghana_disease_trend[[ 'orgunitlevel2', 'orgunitlevel3','District QGIS', 'Number diagnosed anemic (OPD Attendance) 2019',
+       'Number of OPD Suspected Malaria Cases 2019',
+       'Upper Respiratory Tract Infections 2019',
+'Hypertension 2019','Diabetes Mellitus 2019']]
+
+ghana_disease_trend.columns = ['Region','District','QGIS_District','Anameic19','Malaria19','Urti19','Hp19','Diabetes19']
+
+
+#%%
+ghana_disease_trend['COVID_Risk_index'] = 0.5 * ghana_disease_trend['Malaria19'] + (
+ghana_disease_trend['Hp19']+ghana_disease_trend['Urti19']+ghana_disease_trend['Diabetes19']
++ 0.5 * ghana_disease_trend['Anameic19'])
+
+#%%
+
+sort_data = ghana_disease_trend[['District','Region','QGIS_District','COVID_Risk_index']].sort_values('COVID_Risk_index' , ascending = False)
+
+#%%
+
+                                          
+                                          
+
+
+
+
+
+
+
+
+
+
+
