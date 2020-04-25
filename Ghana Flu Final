@@ -1,0 +1,67 @@
+#!/usr/bin/env python3
+# -*- coding: utf-8 -*-
+"""
+Created on Fri Apr 24 18:56:29 2020
+
+@author: laudboat
+"""
+
+import pandas as pd 
+import numpy as np
+import seaborn as sns
+import matplotlib.pyplot as plt
+pd.set_option('display.max_rows',500)
+pd.set_option('display.max_columns',500)
+#%%
+
+# Data Collectiob and representation
+
+flu_data = pd.read_csv("FLU DATA BY MONTH .csv")
+ghana_disease_trend = pd.read_csv("Ghana Disease Trend 2017-2019 .csv")
+
+print(flu_data.head(5))
+
+print(ghana_disease_trend.head(5))
+
+#%%
+
+# Step 2: Data Preporocessing
+flu_data.drop(['District edit','Unnamed: 18', 'Unnamed: 16', 'Unnamed: 17','orgunitlevel2.1'], axis = 1, inplace = True)
+flu_data.dropna(inplace = True)
+ghana_disease_trend.dropna(inplace = True)
+
+#%%
+flu_data.columns= ['org_unit_name','region','Jan19','Feb19','Mar19','Apr19','May19','Jun19','Jul19','Aug19','Sep19','Oct19','Nov19','Dec19']
+
+#%%
+columns = ['Jan19', 'Feb19', 'Mar19', 'Apr19',
+       'May19', 'Jun19', 'Jul19', 'Aug19', 'Sep19', 'Oct19', 'Nov19', 'Dec19']
+for column in columns:
+    flu_data[column] = flu_data[column].astype('int')
+#%%
+
+columns = ['Jan19', 'Feb19', 'Mar19', 'Apr19',
+       'May19', 'Jun19', 'Jul19', 'Aug19', 'Sep19', 'Oct19', 'Nov19', 'Dec19']
+
+total_cases = 0
+
+for column in columns:
+    total_cases = total_cases + flu_data[column].sum()
+
+#%%
+
+for column in columns:
+    column_name = column + 'ratio'
+    flu_data[column_name] = (flu_data[column]/total_cases)*1000
+    
+#%%
+    
+group_heatmap = flu_data.groupby('region')['Jan19ratio', 'Feb19ratio',
+       'Mar19ratio', 'Apr19ratio', 'May19ratio', 'Jun19ratio', 'Jul19ratio',
+       'Aug19ratio', 'Sep19ratio', 'Oct19ratio', 'Nov19ratio', 'Dec19ratio'].sum()
+    
+#%%
+
+plt.subplots(figsize = (10,5))
+ax1 = sns.heatmap(group_heatmap,annot = True, cbar_kws = {'ticks':[2, 3, 4,5, 6, 7 , 8, 9, 10, 11, 12 , 13, 14,
+       14, 15]}, vmin = 2, vmax = 15) 

@@ -1,0 +1,581 @@
+﻿orgunitlevel1,orgunitlevel2,orgunitlevel3,District QGIS,organisationunitname,Number diagnosed anemic (OPD Attendance) 2019,Number diagnosed anemic (OPD Attendance) 2018,Number diagnosed anemic (OPD Attendance) 2017,Number of OPD Suspected Malaria Cases 2019,Number of OPD Suspected Malaria Cases 2018,Number of OPD Suspected Malaria Cases 2017,Upper Respiratory Tract Infections 2019,Upper Respiratory Tract Infections 2018,Upper Respiratory Tract Infections 2017,Hypertension 2019,Hypertension 2018,Hypertension 2017,Diabetes Mellitus 2019,Diabetes Mellitus 2018
+Ghana,Greater Accra,Ablekuma Central,ABLEKUMA CENTRAL MUNICIPAL,Ablekuma Central,2,0,0,10160,655,567,3954,542,497,3973,479,218,1068,176
+Ghana,Greater Accra,Ablekuma North,ABLEKUMA NORTH MUNICIPAL,Ablekuma North,60,190,40,9858,9437,5470,1480,2641,1117,2639,1698,754,617,570
+Ghana,Greater Accra,Ablekuma West,ABLEKUMA WEST MUNICIPAL,Ablekuma West,4,18,4,14979,15175,14772,6645,7931,6246,3849,3763,3529,1167,606
+Ghana,Eastern,Abuakwa North,ABUAKWA NORTH,Abuakwa North,1285,104,112,28885,17954,20926,11599,12504,10466,2074,1905,3141,346,622
+Ghana,Central,Abura-Asebu-Kwamankese,ABURA-ASEBU-KWAMANKESE,Abura-Asebu-Kwamankese,686,881,167,63418,55409,57324,17807,16323,15121,81,80,169,28,53
+Ghana,Greater Accra,Accra Metro,ACCRA METROPOLIS,Accra Metro,172,206,186,56430,44387,52388,33057,28474,34221,11046,8224,10394,4201,3613
+Ghana,Eastern,Achiase ,ACHIASE ,Achiase ,18,9,1,23603,23083,17337,7065,8906,5583,341,600,1413,44,22
+Ghana,Greater Accra,Ada East,ADA EAST,Ada East,19,21,44,23768,23321,17106,6426,6299,6240,524,366,579,93,36
+Ghana,Greater Accra,Ada West,ADA WEST,Ada West,8,0,2,11493,13188,12774,3897,6452,5377,785,887,1056,61,60
+Ghana,Volta,Adaklu,ADAKLU,Adaklu,34,16,0,22303,18506,17906,7772,6139,5684,169,134,234,7,67
+Ghana,Ashanti,Adansi Akrofuom,ADANSI AKROFUOM,Adansi Akrofuom,6,22,4,11302,10093,5911,2348,2459,1292,58,581,588,137,43
+Ghana,Ashanti,Adansi Asokwa,ADANSI ASOKWA,Adansi Asokwa,297,156,243,22281,23323,20715,5842,6356,4205,146,263,132,11,24
+Ghana,Ashanti,Adansi North,ADANSI NORTH,Adansi North,0,0,20,24043,25874,30364,3669,4039,5492,954,1179,1839,16,96
+Ghana,Ashanti,Adansi South,ADANSI SOUTH,Adansi South,0,4,10,22403,24462,16733,5470,4896,4584,595,880,537,160,104
+Ghana,Greater Accra,Adentan,ADENTA MUNICIPAL,Adentan,32,14,92,27038,31283,35204,10967,7705,9158,4041,5987,4843,1022,1760
+Ghana,Volta,Afadjato South,AFADZATO SOUTH,Afadjato South,15,60,37,31805,28444,25688,10074,10707,10184,540,474,512,49,24
+Ghana,Ashanti,Afigya Kwabre North,AFIGYA KWABRE NORTH,Afigya Kwabre North,13,2,1,25323,26578,20559,6379,6979,5882,1065,871,496,241,223
+Ghana,Ashanti,Afigya Kwabre South,AFIGYA KWABRE SOUTH,Afigya Kwabre South,563,199,152,70382,63618,55472,20717,21291,17899,1757,1166,831,652,796
+Ghana,Eastern,Afram Plains South,KWAHU AFRAM PLAINS SOUTH,Afram Plains South,67,115,84,30149,31428,24479,7522,9050,6477,1052,1106,662,134,98
+Ghana,Central,Agona East,AGONA EAST,Agona East,70,71,55,35081,37274,32642,10736,11543,11301,1274,1475,2571,164,155
+Ghana,Central,Agona West,AGONA WEST MUNICIPAL,Agona West,161,37,194,70026,65999,57543,13722,19148,17698,2862,737,680,609,126
+Ghana,Volta,Agortime-Ziope,AGOTIME ZIOPE,Agortime-Ziope,0,0,0,16444,12767,8456,4527,3597,1977,740,682,519,23,14
+Ghana,Ashanti,Ahafo Ano North,AHAFO ANO NORTH,Ahafo Ano North,36,23,34,39777,31010,31998,15351,14384,11286,335,317,419,65,79
+Ghana,Ashanti,Ahafo Ano South East,AHAFO ANO SOUTH EAST,Ahafo Ano South East,24,33,22,25857,22714,19275,8389,7758,7236,529,348,370,209,144
+Ghana,Ashanti,Ahafo Ano South West,AHAFO ANO SOUTH WEST,Ahafo Ano South West,82,62,62,33942,31919,25626,13868,12609,8550,584,1293,1797,108,169
+Ghana,Western,Ahanta West,AHANTA WEST MUNICIPAL,Ahanta West,309,239,221,61058,48726,44910,17610,17603,17369,1510,1179,466,343,235
+Ghana,Central,Ajumako-Enyan-Essiam,AJUMAKO-ENYAN-ESSIAM,Ajumako-Enyan-Essiam,86,50,28,66192,74163,69687,27505,28848,27086,1296,3039,2599,322,808
+Ghana,Volta,Akatsi North,AKATSI NORTH,Akatsi North,7,2,23,12899,14063,15679,3827,4565,4150,270,421,496,47,29
+Ghana,Volta,Akatsi South,AKATSI SOUTH,Akatsi South,353,59,43,34875,38387,41003,12836,14351,16218,481,2109,1338,74,566
+Ghana,Eastern,Akwapim North,AKWAPEM NORTH,Akwapim North,138,224,0,52517,52779,43179,14289,14200,12438,3637,4107,4786,68,815
+Ghana,Eastern,Akwapim South,AKWAPEM SOUTH,Akwapim South,23,33,12,26836,24182,26346,8133,7359,7796,438,150,60,116,54
+Ghana,Eastern,Akyemansa,AKYEM MANSA,Akyemansa,312,316,234,44682,45373,48210,15724,19207,21291,114,244,322,19,41
+Ghana,Ashanti,Amansie Central,AMANSIE CENTRAL,Amansie Central,103,41,12,48542,43426,29990,17304,18301,12451,805,1288,144,121,177
+Ghana,Ashanti,Amansie South,AMANSIE SOUTH,Amansie South,667,714,732,45851,46449,39626,7528,6555,6363,307,379,606,67,531
+Ghana,Ashanti,Amansie West,AMANSIE WEST,Amansie West,1,73,6,19733,17000,14095,4417,3835,3071,587,543,1421,83,129
+Ghana,Volta,Anloga,ANLOGA,Anloga,280,621,384,30391,33793,21191,6307,6505,7362,1355,1274,1097,50,37
+Ghana,Western North,Aowin,AOWIN,Aowin,161,83,66,64328,70691,73075,17017,16948,15256,963,322,312,237,120
+Ghana,Ashanti,Asante Akim Central,ASANTE AKIM CENTRAL MUNICIPAL,Asante Akim Central,11,57,35,67365,54922,61544,12565,13677,10608,632,2297,2049,251,682
+Ghana,Ashanti,Asante Akim North,ASANTE AKIM NORTH,Asante Akim North,90,12,16,42736,25333,22297,17252,11404,8955,802,821,2529,357,207
+Ghana,Ashanti,Asante Akim South,ASANTE AKIM SOUTH,Asante Akim South,99,43,34,57692,61110,53301,25286,23481,15848,2104,1011,565,803,922
+Ghana,Ashanti,Asante Mampong,MAMPONG MUNICIPAL,Asante Mampong,331,265,475,42375,43169,38254,20764,17241,12529,1750,1314,3659,676,595
+Ghana,Eastern,Asene Manso Akroso,ASENE MANSO AKROSO,Asene Manso Akroso,0,0,0,37043,32514,24925,8198,7631,6409,1995,2005,1633,445,534
+Ghana,Greater Accra,Ashaiman,ASHAIMAN MUNICIPAL,Ashaiman,615,1700,1508,66225,95563,108316,18624,35731,40156,15855,24510,21107,4263,7449
+Ghana,Central,Asikuma-Odoben-Brakwa,ASIKUMA-ODOBEN-BRAKWA,Asikuma-Odoben-Brakwa,197,92,106,73642,74864,71402,18055,17215,17829,1079,920,4930,298,147
+Ghana,Ashanti,Asokore Mampong,ASOKORE MAMPONG MUNICIPAL,Asokore Mampong,149,391,87,10391,22102,8692,3065,5544,3308,837,1829,1094,417,653
+Ghana,Ashanti,Asokwa,ASOKWA  MUNICIPAL,Asokwa,110,36,25,64553,44831,19233,24342,9132,4464,5033,4664,1936,2561,2468
+Ghana,Central,Assin Foso,ASSIN CENTRAL MUNICIPAL,Assin Foso,176,138,360,52259,45636,37616,9337,8273,6846,1363,1635,1009,282,264
+Ghana,Central,Assin North,ASSIN NORTH,Assin North,1391,1333,768,42749,44834,40190,7510,7384,6513,1666,2689,2514,624,702
+Ghana,Central,Assin South,ASSIN SOUTH,Assin South,17,1,8,55028,48918,43874,16452,12339,9838,499,338,378,182,61
+Ghana,Ahafo,Asunafo North,ASUNAFO NORTH MUNICIPAL,Asunafo North,23,2,4,73085,62604,61904,29801,22383,20446,4648,2136,1495,1682,528
+Ghana,Ahafo,Asunafo South,ASUNAFO SOUTH,Asunafo South,23,32,67,79903,70107,63219,26854,22021,22123,423,482,674,685,393
+Ghana,Eastern,Asuogyaman,ASUOGYAMAN,Asuogyaman,150,72,92,82616,70647,49367,35568,32821,24584,528,482,380,192,218
+Ghana,Ahafo,Asutifi North,ASUTIFI NORTH,Asutifi North,26,20,5,46130,42787,38150,18600,18858,19089,372,530,331,194,161
+Ghana,Ahafo,Asutifi South,ASUTIFI SOUTH,Asutifi South,244,125,329,32650,37801,38023,11897,12185,15146,2119,1788,1187,461,531
+Ghana,Bono East,Atebubu-Amanten,ATEBUBU AMANTIN,Atebubu-Amanten,51,118,30,71116,69031,61463,13829,14541,14510,452,802,418,215,305
+Ghana,Eastern,Atiwa East,ATIWA EAST,Atiwa East,59,87,26,35520,29924,23057,15152,11802,9457,901,2143,681,355,840
+Ghana,Eastern,Atiwa West,ATIWA WEST,Atiwa West,5,153,44,35775,35717,30267,17937,15860,12012,129,440,668,49,139
+Ghana,Ashanti,Atwima Kwanwoma,ATWIMA KWANWOMA,Atwima Kwanwoma,63,70,62,51727,47596,37400,13409,15625,13349,2086,1866,1653,1281,1026
+Ghana,Ashanti,Atwima Mponua,ATWIMA MPONUA,Atwima Mponua,121,223,128,47448,53678,48652,17435,16733,17626,618,458,184,91,68
+Ghana,Ashanti,Atwima Nwabiagya,ATWIMA NWABIAGYA SOUTH,Atwima Nwabiagya,85,65,80,103853,95751,99415,33521,32249,23878,1971,7747,5197,1341,2385
+Ghana,Ashanti,Atwima Nwabiagya North,ATWIMA NWABIAGYA NORTH,Atwima Nwabiagya North,95,153,60,50587,47119,45889,10619,10823,10923,1382,1200,1167,435,247
+Ghana,Central,Awutu Senya,AWUTU SENYA WEST,Awutu Senya,6,9,10,42967,40381,35220,9875,12081,10148,1406,1273,628,214,189
+Ghana,Central,Awutu Senya East,AWUTU SENYA EAST,Awutu Senya East,102,1338,800,50772,51804,46385,12090,12395,14359,9035,6763,9617,2510,1751
+Ghana,Greater Accra,Ayawaso Central,AYAWASO CENTRAL MUNICIPAL,Ayawaso Central,3,5,2,3998,2255,1684,932,1032,1159,955,592,415,211,132
+Ghana,Greater Accra,Ayawaso East,AYAWASO EAST MUNICIPAL,Ayawaso East,115,204,351,4374,3272,5985,2023,1755,2087,368,542,1143,135,140
+Ghana,Greater Accra,Ayawaso North,AYAWASO NORTH MUNICIPAL,Ayawaso North,15,4,15,5092,5435,5803,2576,1953,2072,1805,2252,2267,545,732
+Ghana,Greater Accra,Ayawaso West,AYAWASO WEST,Ayawaso West,16,0,0,7294,639,941,2440,1155,1159,761,382,346,228,156
+Ghana,Eastern,Ayensuano,AYENSUANO,Ayensuano,26,16,51,30344,25049,20857,8242,8173,6976,126,22,97,14,
+Ghana,Bono,Banda,BANDA,Banda,9,21,22,30029,26964,24671,12084,11096,11695,311,206,132,,156
+Ghana,Upper East,Bawku Municipal,BAWKU MUNICIPAL,Bawku Municipal,423,108,69,116981,120346,113173,18435,27033,34184,2169,5232,7345,770,721
+Ghana,Upper East,Bawku West,BAWKU WEST,Bawku West,141,30,29,110119,78169,70382,22491,16613,15594,2312,1579,1668,341,220
+Ghana,Ashanti,Bekwai,BEKWAI MUNICIPAL,Bekwai,944,934,593,52855,58561,51143,20129,21876,18312,3473,2346,2506,820,672
+Ghana,Bono,Berekum,BEREKUM EAST MUNICIPAL,Berekum,36,0,26,54449,46482,36375,19324,16681,15668,891,1121,782,891,168
+Ghana,Bono,Berekum West,BEREKUM WEST,Berekum West,30,5,0,23722,18863,13727,7461,6080,4746,453,165,106,41,8
+Ghana,Western North,Bia East,BIA EAST,Bia East,91,61,24,18675,15499,16063,4164,3385,3826,214,218,129,18,21
+Ghana,Western North,Bia West,BIA WEST,Bia West,392,235,106,63913,77736,78411,21561,51205,52922,1490,351,878,128,84
+Ghana,Oti,Biakoye,BIAKOYE,Biakoye,0,0,31,44191,42532,34156,12419,12393,10382,1057,794,923,541,234
+Ghana,Western North,Bibiani-Anhwiaso-Bekwai,BIBIANI-ANHWIASO-BEKWAI MUNICIPAL,Bibiani-Anhwiaso-Bekwai,48,116,288,134875,136651,145766,39893,49363,54880,8358,5123,6468,3099,2170
+Ghana,Upper East,Binduri,BINDURI,Binduri,2,1,0,48521,35444,32547,11032,7913,9425,911,607,745,36,1
+Ghana,Eastern,Birim Central,BIRIM CENTRAL MUNICIPAL,Birim Central,51,60,91,105322,100818,95158,26484,29028,30261,9993,14688,10561,2323,4537
+Ghana,Eastern,Birim North,BIRIM NORTH,Birim North,303,498,373,57932,57680,50421,20412,26313,22772,2156,2407,895,98,126
+Ghana,Eastern,Birim South,BIRIM SOUTH,Birim South,18,32,23,17898,22423,17741,9959,10055,6635,54,122,88,8,13
+Ghana,Western North,Bodi,BODI,Bodi,110,225,85,24230,27312,26953,6292,7387,6810,129,268,164,22,26
+Ghana,Savannah,Bole,BOLE,Bole,74,162,243,59442,46115,51232,23510,20117,26491,919,961,757,108,23
+Ghana,Upper East,Bolgatanga East,BOLGA  EAST,Bolgatanga East,10,3,1,17472,15559,13990,3742,3774,3749,339,382,371,31,13
+Ghana,Upper East,Bolgatanga Municipal,BOLGATANGA MUNICIPAL,Bolgatanga Municipal,122,390,678,123150,108721,109642,42081,41681,46294,9184,10864,11659,1515,1397
+Ghana,Upper East,Bongo,BONGO,Bongo,173,180,244,80283,67253,62290,18946,20364,19857,1304,1619,1319,251,63
+Ghana,Ashanti,Bosome Freho,BOSOME FREHO,Bosome Freho,250,166,52,22132.2,20664,20625,8236,10695,8052,4,18,304,,
+Ghana,Ashanti,Bosomtwe,BOSOMTWE,Bosomtwe,981,513,100,36414,34469,25632,15204,18136,11359,2178,2154,5312,1422,2177
+Ghana,Upper East,Builsa North,BUILSA NORTH,Builsa North,325,278,285,41353,36657,48868,8355,10519,12623,1155,1045,701,121,141
+Ghana,Upper East,Builsa South,BUILSA SOUTH,Builsa South,21,3,15,34260,24451,35193,5047,4867,6664,384,561,579,3,8
+Ghana,North East,Bunkpurugu -Nakpanduri,BUNKPURUGU NAKPANDURI,Bunkpurugu -Nakpanduri,338,259,20,32060,34293,47180,19182,19866,20824,552,580,2642,106,39
+Ghana,Central,Cape Coast,CAPE COAST METROPOLITAN,Cape Coast,783,747,874,124786,112632,115112,37678,37279,40355,23869,15570,28056,14386,8904
+Ghana,Savannah,Central Gonja,CENTRAL GONJA,Central Gonja,620,317,305,42936,50443,47772,13013,12611,11157,1184,1462,1850,208,159
+Ghana,Volta,Central Tongu,CENTRAL TONGU,Central Tongu,361,204,360,39834,34323,28073,16220,14054,11896,1647,1071,775,109,184
+Ghana,North East,Chereponi,CHEREPONI,Chereponi,51,1,7,18003,11670,18673,2077,3815,4419,284,161,432,23,5
+Ghana,Upper West,Daffiama-Bussie-Issa,DAFFIAMA BUSSIE ISSA,Daffiama-Bussie-Issa,15,8,9,31084,26012,17070,8037,6901,5630,101,84,111,15,4
+Ghana,Eastern,Denkyembour,DENKYEMBOUR,Denkyembour,1584,268,2450,54877,44791,42300,22268,24537,18531,3097,2207,1973,1139,700
+Ghana,Bono,Dormaa East,DORMAA EAST,Dormaa East,4,5,12,53347,41307,40273,19563,21444,15707,2285,1473,389,339,231
+Ghana,Bono,Dormaa Municipal,DORMAA MUNICIPAL,Dormaa Municipal,52,39,11,45931,54576,59015,14299,13967,14673,764,1097,2123,321,321
+Ghana,Bono,Dormaa West,DORMAA WEST,Dormaa West,31,25,14,35109,31444,28149,10930,9508,7893,350,394,1212,25,413
+Ghana,Eastern,East Akim - Abuakwa South,ABUAKWA SOUTH MUNICIPAL,East Akim - Abuakwa South,234,350,216,45850,39041,37465,14690,15716,16238,168,272,365,38,108
+Ghana,Savannah,East Gonja,EAST GONJA MUNICIPAL,East Gonja,17,7,16,19661,15978,12559,4818,3149,2720,1412,2808,2819,332,310
+Ghana,North East,East Mamprusi,EAST MAMPRUSI,East Mamprusi,21,55,17,69178,32538,34508,29063,21346,20617,8025,2517,1561,1545,119
+Ghana,Western,Effia-Kwesimintsim,EFFIA KWESIMINTSIM MUNICIPAL,Effia-Kwesimintsim,232,123,112,59717,47016,43215,23231,19766,15488,2799,2815,2655,1296,1110
+Ghana,Central,Efutu,EFFUTU MUNICIPAL,Efutu,246,214,185,60720,60452,52486,22762,25610,23112,8706,6518,6775,2273,1775
+Ghana,Ashanti,Ejisu,EJISU MUNICIPAL,Ejisu,183,84,64,61140,60828,40583,20233,15729,11963,7895,5412,2358,2862,2606
+Ghana,Ashanti,Ejura-Sekyedumase,EJURA-SEKYEDUMASE,Ejura-Sekyedumase,409,376,66,25627,33495,29909,8569,11837,10143,1137,1342,1356,483,471
+Ghana,Central,Ekumfi,EKUMFI,Ekumfi,6,4,3,23286,21551,16624,8608,7094,5551,251,148,159,84,48
+Ghana,Western,Ellembelle,ELLEMBELLE,Ellembelle,168,334,869,122850,129825,133040,39108,40562,43657,2590,2786,9028,906,1407
+Ghana,Eastern,Fanteakwa North,FANTEAKWA NORTH,Fanteakwa North,45,22,23,19392,19028,22191,10540,11186,9506,512,1103,1157,91,118
+Ghana,Eastern,Fanteakwa South,FANTEAKWA SOUTH,Fanteakwa South,0,0,0,17994,15721,13615,8116,7977,7672,609,329,379,150,28
+Ghana,Greater Accra,Ga Central,GA CENTRAL MUNICIPAL,Ga Central,171,148,58,23762,11682,15916,4174,1943,2279,2624,1408,1387,1051,440
+Ghana,Greater Accra,Ga East,GA EAST,Ga East,379,724,564,71065,73613,67514,6812,7239,10344,13527,11237,9293,1313,1247
+Ghana,Greater Accra,Ga North,GA NORTH MUNICIPAL,Ga North,86,53,71,33974,19661,16337,9444,7977,7205,2782,1859,1604,1305,918
+Ghana,Greater Accra,Ga South,GA SOUTH MUNICIPAL,Ga South,76,30,65,26690,22283,23420,6834,5142,5691,2042,1665,2098,505,382
+Ghana,Greater Accra,Ga West,GA WEST MUNICIPAL,Ga West,127,98,57,35763,28735,25939,8171,9202,8181,3257,3323,2468,488,605
+Ghana,Upper East,Garu,GARU,Garu,87,46,61,52966,47004,46152,13631,11125,11824,1413,1354,1066,160,85
+Ghana,Central,Gomoa Central,GOMOA CENTRAL,Gomoa Central,21,23,88,23509,22119,17587,5963,7527,5004,322,371,246,15,6
+Ghana,Central,Gomoa East,GOMOA EAST,Gomoa East,209,387,286,46000,50711,46301,10796,9992,10399,1958,3209,3716,569,1538
+Ghana,Central,Gomoa West,GOMOA WEST,Gomoa West,51,31,120,42789,39080,34512,12875,11084,7776,1961,1422,1032,615,341
+Ghana,Northern,Gushiegu,GUSHEGU,Gushiegu,259,14,37,17250,15197,16705,9982,6339,5039,690,825,873,4,41
+Ghana,Volta,Ho,HO MUNICIPAL,Ho,591,417,1674,86804,86891,86787,33187,39999,47820,10308,11766,17116,2434,2595
+Ghana,Volta,Ho West,HO WEST,Ho West,12,11,13,49469,39145,28979,11165,11688,9351,871,885,2123,177,107
+Ghana,Volta,Hohoe,HOHOE MUNICIPAL,Hohoe,17,24,4,56489,64917,51795,14569,21233,16760,2743,3345,1992,609,657
+Ghana,Bono,Jaman North,JAMAN NORTH,Jaman North,9,5,17,111353,98287,88361,43030,39730,33451,330,290,606,180,169
+Ghana,Bono,Jaman South,JAMAN SOUTH MUNICIPAL,Jaman South,297,660,721,107979,97629,74625,32805,28797,22936,1272,3039,2200,495,828
+Ghana,Oti,Jasikan,JASIKAN,Jasikan,13,0,9,35510,40669,35776,5163,8184,5913,1241,327,124,294,163
+Ghana,Upper West,Jirapa,JIRAPA,Jirapa,23,9,202,54832,51469,36035,14797,13938,11757,410,1036,944,63,55
+Ghana,Western,Jomoro,JOMORO,Jomoro,130,140,79,71630,69399,68942,24126,25604,22724,693,677,880,224,247
+Ghana,Ashanti,Juaben,JUABEN MUNICIPAL,Juaben,1,1,0,19364,21960,19767,6670,6688,5596,912,455,587,210,125
+Ghana,Western North,Juaboso,JUABOSO,Juaboso,64,91,160,61056,54885,52530,9248,9502,9211,906,580,1235,102,333
+Ghana,Oti,Kadjebi,KADJEBI,Kadjebi,656,1704,1696,36250,36026,33223,11156,11188,9147,676,1131,1297,91,114
+Ghana,Northern,Karaga,KARAGA,Karaga,38,108,31,13142,13991,16175,6383,6910,6253,336,1042,653,18,2
+Ghana,Upper East,Kasena-Nankana,KASENA NANKANA EAST,Kasena-Nankana,247,66,92,61919,65779,65163,19588,19919,20745,1041,1478,1495,133,248
+Ghana,Upper East,Kasena-Nankana West,KASENA NANKANA WEST,Kasena-Nankana West,45,16,6,66294,55964,67134,24045,20374,20422,979,821,811,111,37
+Ghana,Volta,Keta,KETA MUNICIPAL,Keta,17,198,248,35696,39138,35280,13465,16928,19949,9155,5586,4546,1418,726
+Ghana,Volta,Ketu North,KETU NORTH,Ketu North,50,1501,2669,41501,43691,34910,14899,17402,17202,8335,11012,8022,1770,2191
+Ghana,Volta,Ketu South,KETU SOUTH,Ketu South,261,524,323,45933,42129,40239,15336,17265,20032,3843,3252,2735,937,824
+Ghana,Bono East,Kintampo North,KINTAMPO NORTH MUNICIPAL,Kintampo North,885,710,102,121128,73825,50567,35049,29182,17267,4869,4770,3696,2512,2247
+Ghana,Bono East,Kintampo South,KINTAMPO SOUTH,Kintampo South,38,81,75,42682,44554,47654,15974,16349,17515,28,66,75,4,26
+Ghana,Central,Komenda-Edna-Eguafo-Abirem,KOMENDA-EDINA-EGUAFO-ABIREM MUNICIPAL,Komenda-Edna-Eguafo-Abirem,128,166,247,48457,51929,57014,14260,18018,20202,2992,2754,3295,796,584
+Ghana,Greater Accra,Korle-Klottey,KORLE KLOTTEY MUNICIPAL,Korle-Klottey,87,59,26,21358,23646,21882,7179,8509,7934,9216,2531,2843,4260,1265
+Ghana,Northern,Kpandai,KPANDAI,Kpandai,5,35,41,30729,33258,28912,11103,9047,6816,394,541,442,53,54
+Ghana,Volta,Kpando,KPANDO MUNICIPAL,Kpando,48,130,96,31789,33254,42820,8032,10160,10130,1924,2797,8090,331,726
+Ghana,Greater Accra,Kpone-Katamanso,KPONE KATAMANSO,Kpone-Katamanso,143,45,56,48297,52508,45763,12895,19202,20960,5039,7592,8686,1732,2879
+Ghana,Oti,Krachi East,KRACHI EAST MUNICIPAL,Krachi East,20,30,22,38088,34487,34491,9222,8841,9489,323,414,442,81,18
+Ghana,Oti,Krachi Nchumuru,KRACHI NCHUMURU,Krachi Nchumuru,11,40,118,17834,17308,15437,4129,4543,3255,150,209,162,12,65
+Ghana,Oti,Krachi West,KRACHI WEST,Krachi West,26,14,1475,37312,29792,31716,7656,9803,9706,523,3198,4359,175,519
+Ghana,Greater Accra,Krowor,KROWOR MUNICIPAL,Krowor,1,29,126,13844,8539,8769,5447,4174,2299,1109,909,499,185,124
+Ghana,Ashanti,Kumasi,KUMASI METROPOLITAN,Kumasi,530,267,303,129131,115285,90399,42585,56199,49289,21877,19226,18659,9170,7891
+Ghana,Northern,Kumbungu,KUMBUNGU,Kumbungu,578,368,184,17657,17089,16738,10118,8789,8627,601,558,531,36,43
+Ghana,Ashanti,Kwabre East,KWABRE EAST,Kwabre East,39,180,233,43856,48769,51658,6223,5271,6200,2921,3139,2583,898,783
+Ghana,Ashanti,Kwadaso,KWADASO MUNICIPAL,Kwadaso,0,4,6,23465,20944,13246,15013,15936,12166,3454,1944,1211,1386,1096
+Ghana,Eastern,Kwaebibirem,KWAEBIBIREM,Kwaebibirem,108,336,295,63122,66421,53561,23921,28455,21655,1006,1332,219,606,1345
+Ghana,Eastern,Kwahu East,KWAHU EAST,Kwahu East,125,35,172,37292,32020,34472,13407,15893,15029,671,613,518,21,36
+Ghana,Eastern,Kwahu North,KWAHU NORTH,Kwahu North,118,60,53,22298,20880,21282,6257,5966,4898,1395,894,426,142,47
+Ghana,Eastern,Kwahu South,KWAHU SOUTH,Kwahu South,101,34,47,34091,28406,29684,15959,15854,16123,1561,2757,5462,921,1181
+Ghana,Eastern,Kwahu West,KWAHU WEST MUNICIPAL,Kwahu West,172,235,163,56885,67692,62565,17728,17337,15656,466,1121,1417,132,260
+Ghana,Greater Accra,La-Dade-Kotopon,LA DADE-KOTOPON,La-Dade-Kotopon,21,62,16,42661,38544,37456,16731,15047,11012,20585,17497,10880,5976,5664
+Ghana,Greater Accra,La-Nkwantanang-Madina,LA-NKWANTANANG-MADINA,La-Nkwantanang-Madina,740,1050,773,76294,74111,67061,28657,21874,24954,7880,4674,5726,2016,1159
+Ghana,Upper West,Lambussie,LAMBUSSIE-KARNI,Lambussie,9,19,11,47133,37200,32036,14042,11767,10850,455,715,670,46,26
+Ghana,Upper West,Lawra,LAWRA,Lawra,48,26,23,59969,50510,37691,13467,12413,9292,654,483,258,13,186
+Ghana,Greater Accra,Ledzokuku,LEDZOKUKU MUNICIPAL,Ledzokuku,81,130,86,38823,41253,41321,6589,4715,9742,4097,4379,6549,1976,1807
+Ghana,Eastern,Lower-Manya Krobo,LOWER MANYA KROBO,Lower-Manya Krobo,400,272,167,42559,33717,32292,20933,22968,17300,2843,4389,2839,538,773
+Ghana,North East,Mamprugu-Moagduri,MAMPRUGU MOAGDURI,Mamprugu-Moagduri,36,40,28,18566,19656,13789,11206,10491,8292,318,235,242,10,
+Ghana,Central,Mfantsiman,MFANTSEMAN MUNICIPAL,Mfantsiman,413,210,236,72803,46334,48613,24109,22173,25565,8314,6454,3485,1798,1390
+Ghana,Northern,Mion,MION,Mion,74,20,8,26392,22783,26532,10295,8866,9710,323,308,293,27,
+Ghana,Western,Mpohor,MPOHOR,Mpohor,3,1,8,24916,19130,16498,7078,6483,5089,374,265,91,116,58
+Ghana,Upper East,Nabdam,NABDAM,Nabdam,34,86,64,51739,51106,48073,29196,33950,22932,514,519,298,15,21
+Ghana,Upper West,Nadowli-Kaleo,NADOWLI-KALEO,Nadowli-Kaleo,82,12,16,72374,56048,38578,15397,14643,11491,1745,1560,748,269,206
+Ghana,Upper West,Nandom,NANDOM,Nandom,80,74,112,45362,35264,29496,10414,10990,11164,213,474,367,89,121
+Ghana,Northern,Nanton,NANTON,Nanton,30,36,39,6063,8685,10678,2639,3529,3202,133,131,105,2,2
+Ghana,Northern,Nanumba North,NANUMBA NORTH,Nanumba North,35,23,69,34294,39629,49964,7342,11168,8137,1966,791,1545,425,280
+Ghana,Northern,Nanumba South,NANUMBA SOUTH,Nanumba South,81,146,93,29031,35944,35579,10846,12703,12918,274,199,866,13,45
+Ghana,Eastern,New Juaben North,NEW JUABEN NORTH MUNICIPAL,New Juaben North,18,0,4,21346,15059,14435,10936,10706,11214,1675,1536,1422,554,554
+Ghana,Eastern,New Juaben South,NEW JUABEN SOUTH MUNICIPAL,New Juaben South,2524,1097,2594,100606,69206,68586,39367,45047,46213,6594,6189,8735,1433,2928
+Ghana,Greater Accra,Ningo Prampram,NINGO/PRAMPRAM,Ningo Prampram,37,25,32,32805,35118,34041,9810,8183,7595,2504,1901,1604,705,501
+Ghana,Bono East,Nkoranza North,NKORANZA NORTH,Nkoranza North,12,0,0,30756,28948,27232,9570,8513,7872,126,82,195,14,5
+Ghana,Bono East,Nkoranza South,NKORANZA SOUTH,Nkoranza South,77,29,18,75821,80160,67319,25317,22322,19099,707,717,494,449,270
+Ghana,Oti,Nkwanta North,NKWANTA NORTH,Nkwanta North,0,8,27,31637,31316,30744,5180,8260,7396,1165,1478,943,76,28
+Ghana,Oti,Nkwanta South,NKWANTA SOUTH MUNICIPAL,Nkwanta South,109,256,281,36904,37837,35925,7683,7234,8513,3825,6111,4241,877,1261
+Ghana,Volta,North Dayi,NORTH DAYI,North Dayi,6,17,17,22629,22009,18986,5502,5742,3934,381,775,631,38,116
+Ghana,Savannah,North Gonja,NORTH GONJA,North Gonja,84,28,16,12211,13423,13196,3468,4368,4915,431,446,467,36,27
+Ghana,Volta,North Tongu,NORTH TONGU,North Tongu,1722,2736,253,32941,28537,36454,9722,8169,11777,7112,9627,13433,2011,1762
+Ghana,Savannah,North-East Gonja,NORTH EAST GONJA,North-East Gonja,4,3,1,3689,4334,4916,999,983,966,63,41,90,,1
+Ghana,Eastern,Nsawam-Adoagyiri,NSAWAM ADOAGYIRE MUNICIPAL,Nsawam-Adoagyiri,103,48,101,64372,59505,57754,31776,26796,29394,3516,5768,3454,2836,5872
+Ghana,Western,Nzema East,NZEMA EAST,Nzema East,1280,201,81,48962,41794,35700,6528,8034,6895,2763,712,635,688,223
+Ghana,Ashanti,Obuasi,OBUASI MUNICIPAL,Obuasi,1155,1839,2412,40341,36680,34549,21065,15756,17121,2935,3288,2807,886,1505
+Ghana,Ashanti,Obuasi East,OBUASI EAST,Obuasi East,99,67,26,26673,25743,23269,21836,17694,9767,6074,7057,5305,955,1343
+Ghana,Ashanti,Offinso,OFFINSO MUNICIPAL,Offinso,63,6,12,45643,32542,37616,9381,9474,14396,792,503,547,705,101
+Ghana,Ashanti,Offinso North,OFFINSO NORTH,Offinso North,24,12,6,32682,23200,17097,12620,11251,7154,500,262,123,654,283
+Ghana,Ashanti,Oforikrom,OFORIKROM MUNICIPAL,Oforikrom,104,1003,18,41166,26849,23058,19139,9653,9909,10611,12734,7560,1473,3461
+Ghana,Greater Accra,Okai Koi North,OKAIKWEI NORTH MUNICIPAL,Okai Koi North,156,66,49,39318,27902,21251,14595,5132,5820,6131,2387,1862,1516,520
+Ghana,Eastern,Okere,OKERE,Okere,0,0,1,16534,20618,15325,12673,13446,9046,904,1400,459,2,16
+Ghana,Ashanti,Old Tafo,OLD TAFO MUNICIPAL,Old Tafo,93,112,53,20456,8647,5865,5748,5885,6053,3388,2072,610,2824,1407
+Ghana,Western,Prestea-Huni Valley,PRESTEA/HUNI VALLEY,Prestea-Huni Valley,16,204,106,84566,81060,72698,13961,14993,12882,928,1436,1870,240,362
+Ghana,Bono East,Pru,PRU EAST,Pru,163,273,24,56313,47629,34869,13205,11106,11684,1655,1105,1435,456,251
+Ghana,Bono East,Pru West,PRU WEST,Pru West,4,1,0,29402,20858,20338,6878,4075,3725,362,392,157,51,8
+Ghana,Upper East,Pusiga,PUSIGA,Pusiga,36,55,70,137057,81524,80987,17839,23657,23200,2537,4081,4698,367,309
+Ghana,Northern,Saboba,SABOBA,Saboba,107,199,79,40650,41752,42360,10053,10446,10692,420,628,789,84,72
+Ghana,Northern,Sagnarigu,SAGNERIGU,Sagnarigu,196,134,56,36378,23257,20051,17488,13668,9225,10390,4313,5409,672,376
+Ghana,Northern,Savelugu,SAVELUGU,Savelugu,369,282,513,16175,19285,28739,9114,9850,11952,441,1647,3920,69,123
+Ghana,Savannah,Sawla-Tuna-Kalba,SAWLA-TUNA-KALBA,Sawla-Tuna-Kalba,38,26,17,44546,47453,50946,9565,11123,12597,624,718,728,134,20
+Ghana,Western North,Sefwi-Akontombra,SEFWI AKONTOMBRA,Sefwi-Akontombra,5,2,0,28341,27098,25959,6525,6355,6664,454,218,156,71,37
+Ghana,Western North,Sefwi-Wiawso,SEFWI-WIAWSO,Sefwi-Wiawso,489,873,545,83056,80415,68858,18566,23008,21524,435,501,454,216,223
+Ghana,Western,Sekondi-Takoradi,SEKONDI TAKORADI METROPOLIS,Sekondi-Takoradi,562,442,246,104767,110614,98015,56790,58029,42860,4574,5234,4954,1582,2188
+Ghana,Ashanti,Sekyere Afram Plains,SEKYERE AFRAM PLAINS NORTH,Sekyere Afram Plains,27,25,63,8933,6850,7463,2265,1661,1451,72,80,118,11,1
+Ghana,Ashanti,Sekyere Central,SEKYERE CENTRAL,Sekyere Central,140,48,27,27427,26370,20144,11273,10504,8230,175,509,393,28,52
+Ghana,Ashanti,Sekyere East,SEKYERE EAST,Sekyere East,92,275,345,44091,40946,38879,14433,16512,16267,6603,7983,6883,1194,1723
+Ghana,Ashanti,Sekyere Kumawu,SEKYERE KUMAWU,Sekyere Kumawu,31,36,16,23345,17851,12906,8403,7486,5202,1025,1107,401,216,202
+Ghana,Ashanti,Sekyere South,SEKYERE SOUTH,Sekyere South,101,114,163,39450,38281,30069,16023,12584,9786,1670,2123,1371,626,693
+Ghana,Bono East,Sene East,SENE EAST,Sene East,3,1,19,28307,23083,20040,8426,7186,6473,103,202,90,112,68
+Ghana,Bono East,Sene West,SENE WEST,Sene West,1188,496,129,63706,53513,41575,20981,19987,16365,527,600,341,60,209
+Ghana,Greater Accra,Shai-Osudoku,SHAI OSUDOKU,Shai-Osudoku,70,40,50,41861,46151,44156,12023,11974,8726,1000,928,855,153,287
+Ghana,Western,Shama,SHAMA,Shama,17,9,8,80679,84598,68775,36865,44845,34175,1066,803,648,437,237
+Ghana,Upper West,Sissala East,SISSALA EAST,Sissala East,19,16,30,60827,48959,35751,18190,13435,12366,1623,2035,1380,120,146
+Ghana,Upper West,Sissala West,SISSALA WEST,Sissala West,196,256,177,54692,48588,27479,18576,16286,11786,617,871,483,,86
+Ghana,Volta,South Dayi,SOUTH DAYI,South Dayi,440,554,336,31751,29876,24333,12430,12531,9273,735,1107,827,499,83
+Ghana,Volta,South Tongu,SOUTH TONGU,South Tongu,380,379,242,38456,33370,36590,16696,16701,18792,3657,4481,2597,498,391
+Ghana,Western North,Suaman,SUAMAN,Suaman,186,25,1,25117,20900,25423,4468,4751,5761,397,370,272,104,154
+Ghana,Ashanti,Suame,SUAME MUNICIPAL,Suame,66,45,32,12220,17131,15516,9804,10642,4967,4506,6380,4476,1761,2529
+Ghana,Eastern,Suhum,SUHUM MUNICIPAL,Suhum,257,579,134,62327,41485,40456,10608,17349,9250,979,1804,3814,347,763
+Ghana,Bono,Sunyani Municipal,SUNYANI MUNICIPAL,Sunyani Municipal,111,11,33,127438,142928,124742,51300,54398,48836,2271,1531,2793,944,916
+Ghana,Bono,Sunyani West,SUNYANI WEST,Sunyani West,43,80,19,73389,70329,61198,22501,21917,18421,566,420,473,156,105
+Ghana,Bono,Tain,TAIN,Tain,130,182,142,92124,88769,80803,27224,25843,28790,318,639,180,69,125
+Ghana,Upper East,Talensi,TALENSI,Talensi,318,32,73,76091,66024,61025,21787,21352,21537,1061,1046,1333,107,22
+Ghana,Northern,Tamale,TAMALE METROPOLITAN,Tamale,667,376,335,75098,85079,81949,24953,33533,26986,29920,39133,28157,4471,4993
+Ghana,Ahafo,Tano North,TANO NORTH MUNICIPAL,Tano North,6,2,0,67598,54137,44387,28143,24467,28347,665,991,1058,163,104
+Ghana,Ahafo,Tano South,TANO SOUTH MUNICIPAL,Tano South,27,4,1,30506,32975,31287,7494,11222,9078,1006,510,208,532,191
+Ghana,Western,Tarkwa-Nsuaem,TARKWA NSUAEM,Tarkwa-Nsuaem,390,281,184,139108,125552,109250,57337,58022,50149,12713,10560,10233,3322,3233
+Ghana,Northern,Tatale-Sangule,TATALE SANGULI,Tatale-Sangule,277,240,156,19394,16815,16257,7879,6129,6254,283,347,127,61,30
+Ghana,Bono East,Techiman Municipal,TECHIMAN MUNICIPAL,Techiman Municipal,2417,431,236,171841,153607,121435,50495,46014,41026,8893,8268,5263,3470,3479
+Ghana,Bono East,Techiman North,TECHIMAN NORTH,Techiman North,3,15,6,52416,45613,36450,18030,15267,14322,518,192,177,194,
+Ghana,Greater Accra,Tema,TEMA METROPOLITAN,Tema,263,585,330,22439,28285,34387,5632,8081,9430,2964,2545,5258,1133,1300
+Ghana,Greater Accra,Tema West,TEMA WEST MUNICIPAL,Tema West,0,0,28,9762,8513,15976,1557,2198,10063,1920,2744,2903,508,226
+Ghana,Upper East,Tempane,TEMPANE,Tempane,87,11,8,90464,70979,67817,19941,15238,16448,1281,871,822,35,23
+Ghana,Northern,Tolon,TOLON,Tolon,164,202,254,35469,36637,35789,7787,10205,11287,218,404,772,19,8
+Ghana,Central,Twifo-Ati-Mokwa,TWIFO ATTI-MORKWA,Twifo-Ati-Mokwa,390,173,460,49300,51731,38349,10383,10500,11385,616,623,489,145,146
+Ghana,Central,Twifo-Hemang Lower Denkyira,TWIFO HEMANG LOWER DENKYIRA,Twifo-Hemang Lower Denkyira,0,0,4,17873,17670,16933,3620,3597,3562,227,160,112,5,11
+Ghana,Central,Upper Denkyira East,UPPER DENKYIRA EAST MUNICIPAL,Upper Denkyira East,1189,71,85,70339,40724,34752,15861,11321,7920,391,302,320,287,213
+Ghana,Central,Upper Denkyira West,UPPER DENKYIRA WEST,Upper Denkyira West,8,126,245,47394,42401,39717,7696,7763,6900,332,446,1021,222,124
+Ghana,Eastern,Upper Manya-Krobo,UPPER MANYA KROBO,Upper Manya-Krobo,422,158,115,29347,24236,15502,8554,7578,6580,332,374,347,53,38
+Ghana,Eastern,Upper West Akim,UPPER WEST AKIM,Upper West Akim,9,0,1,28739,22752,16272,7704,6598,4240,1238,891,631,207,127
+Ghana,Upper West,Wa East,WA EAST,Wa East,100,48,38,42309,29928,24855,9689,8565,7400,636,460,304,13,11
+Ghana,Upper West,Wa Municipal,WA MUNICIPAL,Wa Municipal,969,1161,1544,79782,63345,52380,30480,29335,22906,2265,2357,3397,504,440
+Ghana,Upper West,Wa West,WA WEST,Wa West,72,65,46,63659,47384,33296,16469,12740,8205,845,488,611,10,
+Ghana,Western,Wassa Amenfi Central,WASSA AMENFI CENTRAL,Wassa Amenfi Central,7,26,14,40936,38214,34762,10327,9410,9185,52,50,184,4,8
+Ghana,Western,Wassa Amenfi East,WASSA AMENFI EAST,Wassa Amenfi East,28,240,283,69530,60948,53094,20683,19286,16018,899,753,841,290,291
+Ghana,Western,Wassa Amenfi West,WASSA AMENFI WEST,Wassa Amenfi West,380,346,574,80173,82887,75971,29016,30785,28963,2724,4157,2629,1173,1787
+Ghana,Western,Wassa East,WASSA EAST,Wassa East,216,190,201,54943,54545,47569,71265,16304,14640,1094,416,340,319,115
+Ghana,Greater Accra,Weija-Gbawe,WEIJA GBAWE MUNICIPAL,Weija-Gbawe,147,260,289,18901,23350,17972,5988,3688,8228,3664,1291,2479,1190,369
+Ghana,Bono,Wenchi,WENCHI MUNICIPAL,Wenchi,241,65,47,96670,83982,57973,21872,17950,15902,1718,2444,2018,1225,991
+Ghana,Eastern,West Akim,WEST AKIM MUNICIPAL,West Akim,82,51,39,73308,60733,44881,18305,19821,15506,8613,7890,3433,1227,999
+Ghana,Savannah,West Gonja,WEST GONJA,West Gonja,5,93,52,22111,30857,27065,5360,12333,13184,1139,790,441,273,184
+Ghana,North East,West Mamprusi,WEST MAMPRUSI MUNICIPAL,West Mamprusi,149,96,60,47379,32758,19753,14463,8043,6544,1573,1038,619,95,40
+Ghana,Northern,Yendi,YENDI MUNICIPAL,Yendi,367,85,69,36705,39219,55446,12832,12226,16251,1756,1157,793,314,300
+Ghana,Eastern,Yilo-Krobo,YILO KROBO MUNICIPAL,Yilo-Krobo,277,136,465,49091,51254,42114,21300,24133,18389,785,1039,956,126,119
+Ghana,North East,Yunyoo-Nasuan,YUNYOO-NASUAN,Yunyoo-Nasuan,0,0,0,11550,8146,11273,6257,5107,6095,,,21,1,
+Ghana,Northern,Zabzugu,ZABZUGU,Zabzugu,12,22,33,10371,8618,10684,3848,4443,4341,55,204,291,158,116
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
+,,,,,,,,,,,,,,,,,,
