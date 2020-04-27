@@ -24,4 +24,18 @@ Two datasets saved as as csv files serve as the datasets for the analysis. Datas
 
 2.The Ghana Disease Trend dataset had 320 empty rows which were dropped.
 
-3...lksj kjlkasdjlffj
+3.The Flu data columns was then reorganized to reflect the headings 'org_unit_name','District_GIS','region','Jan19','Feb19','Mar19','Apr'....'Dec'.
+
+4.To assess national trends total cases on each month was computed of monthly columns and a bar chart created. Bar chart saved as Ghana Flu Trends 2019.
+
+5.To assess contribution of each district to total flu cases reported per year, the ratio of monthly reported cases/total yearly cases was computed. The new columns were labeled Jan19ratio', 'Feb19ratio', 'Mar19ratio',....'Dec19ratio were grouped together.
+
+6. Regional monthly Heatmps was then created using seaborn and picture saved as "Heat map of Flu cases by region Ghana". Figure size used was (10,5) and scale (2, 3, 4,5, 6, 7 , 8, 9, 10, 11, 12 , 13,14, 15]}, vmin = 2, vmax = 15).
+
+7. To develop the Ghana Covid Risk Index, dataset Ghana Disease trends was used. The Covid Risk index is calculated using 2019 cases as Ghana Covid Risk Index= (0.5 * Anemeia cases/distrist/month) + (1 * Hypertension cases/distrist/month) + (1 * Diabetes cases/distrist/month) +(0.5 * Upper Respiratory Tract Infection Cases /distrist/month) + (0.5 * Malaria cases/distrist/month)
+
+7. Resulting ouput was saved as sort_data which included elements 'District','Region','QGIS_District','COVID_Risk_index'.
+
+
+
+ 
