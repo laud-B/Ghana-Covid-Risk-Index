@@ -85,7 +85,7 @@ boxplot_data['Jan19'].hist(alpha = 0.3, color = 'k', normed = True)
 
 #%%
 
-ax = sns.boxplot(x = boxplot_data['Jan19'])
+#ax = sns.boxplot(x = boxplot_data['Jan19'])
 
 #%%
 
