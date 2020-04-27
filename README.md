@@ -42,7 +42,7 @@ Two datasets saved as as csv files serve as the datasets for the analysis. Datas
 
 8.GIS maps were created using shape files store in folder Ghana Shape files. 
 
-9.Develop a power point presentation and save as APA-2020.ppt
+9.Develop a power point presentation and save as APA-2020.pdf
 
 
 
