@@ -34,13 +34,13 @@ Two datasets saved as as csv files serve as the datasets for the analysis. Datas
 
 7.To develop the Ghana Covid Risk Index, dataset Ghana Disease trends was used. The Covid Risk index is calculated using 2019 cases as Ghana Covid Risk Index= (0.5 * Anemeia cases/distrist/month) + (1 * Hypertension cases/distrist/month) + (1 * Diabetes cases/distrist/month) +(0.5 * Upper Respiratory Tract Infection Cases /distrist/month) + (0.5 * Malaria cases/distrist/month), and saved as Ghana_disease_trend. The total score was used to develope GIS maps of risk.
 
-8. GIS Maps created by joined datasets with variables or columns District_edit/Districts/QGIS_District on data set and shape file. 
+8.GIS Maps created by joined datasets with variables or columns District_edit/Districts/QGIS_District on data set and shape file. 
 
-9. GIS maps was then created for Ghana Covid Risk Index, Proportion of cases between May and July, and Oct/ Nov.
+9.GIS maps was then created for Ghana Covid Risk Index, Proportion of cases between May and July, and Oct/ Nov.
 
 7.Resulting ouput was saved as sort_data which included elements 'District','Region','QGIS_District','COVID_Risk_index'.
 
-8. GIS maps were created using shape files store in folder Ghana Shape files. 
+8.GIS maps were created using shape files store in folder Ghana Shape files. 
 
 
 
