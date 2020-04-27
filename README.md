@@ -2,7 +2,7 @@
 
 # **Summary**  
 
->>On March 11 2020, the World Health Organization declared Covid-19 a pandemic. My project 1.analysis flu trends in Ghana for the year 2020, 2.construct a disease risk index for Ghana and 3.Provides in sights on Ghana's Flu season for 2020 (May to July).The data is sourced from the DHIMS-2 Health information database of the Ghana Health Service. The Ghana Covid Risk Index project will provide summary statistics and use data visualization tools describe the disease and risk burden in Ghana.
+>On March 11 2020, the World Health Organization declared Covid-19 a pandemic. My project 1.analysis flu trends in Ghana for the year 2020, 2.construct a disease risk index for Ghana and 3.Provides in sights on Ghana's Flu season for 2020 (May to July).The data is sourced from the DHIMS-2 Health information database of the Ghana Health Service. The Ghana Covid Risk Index project will provide summary statistics and use data visualization tools describe the disease and risk burden in Ghana.
 
 
 #  **Instructions**
